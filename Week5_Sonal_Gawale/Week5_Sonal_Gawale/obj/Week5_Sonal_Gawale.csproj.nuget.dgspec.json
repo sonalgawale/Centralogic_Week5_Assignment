@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sonal gawale\\Desktop\\C#\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sonal gawale\\Desktop\\C#\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sonal gawale\\Desktop\\C#\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale.csproj",
+        "projectName": "Week5_Sonal_Gawale",
+        "projectPath": "C:\\Users\\sonal gawale\\Desktop\\C#\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale.csproj",
+        "packagesPath": "C:\\Users\\sonal gawale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sonal gawale\\Desktop\\C#\\Week5_Sonal_Gawale\\Week5_Sonal_Gawale\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonal gawale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.37.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
